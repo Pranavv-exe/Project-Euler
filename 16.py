@@ -1,4 +1,4 @@
-#sum of the digits of the number 21000
+#sum of the digits of the number 2*1000
 n=2**1000 #16
 sum=0
 while n>0:
